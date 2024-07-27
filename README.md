@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ulf 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a love for coding, learning new technologies, and collaborating on exciting projects.
 
