@@ -1,4 +1,12 @@
 ## Hi there 👋
+My name is Ulf
+I have a bachelor's in robotics from AAU (Ranked as one of the best engineering universities in Europe).
+I am currently doing my Masters in Manufacturing Technology, and this is my GitHub page
+
+
+
+
+
 
 <!--
 **John-Dillermand/John-Dillermand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +19,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
