@@ -19,10 +19,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 🚀 Projects
 
-### [Project Name](https://github.com/yourusername/project-name)
+### [Reinforcement Learning In A Space Robotics Context](https://github.com/yourusername/project-name)
 Brief description of the project. Key technologies used: `Python`, `Isaac-Sim`, `Reinforcement Learning`.
 
-### [Another Project](https://github.com/yourusername/another-project)
+### [Generative Art Portfolio](https://github.com/yourusername/another-project)
 Brief description of the project. Key technologies used: `Python`, `Django`, `SQLite`.
 
 ## 📝 Blog Posts
