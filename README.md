@@ -14,9 +14,7 @@
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asimov-Tech&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asimov-Tech&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+s.vercel.app/api/top-langs/?username=Asimov-Tech&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Projects
 
@@ -32,11 +30,6 @@ Brief description of the project. Key technologies used: `Python`, `Django`, `SQ
 TODO
 <!-- BLOG-POST-LIST:END -->
 
-## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://yourwebsite.com)
 
 Feel free to reach out if you have any questions or want to collaborate on a project!
 
