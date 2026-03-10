@@ -13,8 +13,7 @@
 
 
 ## 📊 GitHub Stats
-
-![Asimov-Tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asimov-Tech&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asimov-Tech)](https://github.com/Asimov-Tech/github-readme-stats)
 
 ## 🚀 Projects
 
