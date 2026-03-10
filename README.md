@@ -14,7 +14,7 @@
 
 ## 📊 GitHub Stats
 
-s.vercel.app/api/top-langs/?username=Asimov-Tech&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Asimov-Tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asimov-Tech&show_icons=true&theme=radical)
 
 ## 🚀 Projects
 
