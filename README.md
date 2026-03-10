@@ -9,9 +9,9 @@
  ╚═════╝ ╚══════╝╚═╝     
 ```
 
-# Hi, I'm Christoffer Ulf 👋
+# Hi, I'm Chris 👋
 
-*MSc Manufacturing Technology · Robotics & AI Developer · København, Denmark*
+*MSc Manufacturing Technology · Robotics & AI Developer · Denmark*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Reinforcement+Learning+%F0%9F%A4%96;Space+Robotics+%F0%9F%9A%80;Large+Language+Models+%F0%9F%A7%A0;Generative+Art+%F0%9F%8E%A8;IoT+%26+Automation+%E2%9A%A1)](https://git.io/typing-svg)
 
