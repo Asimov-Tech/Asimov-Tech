@@ -80,7 +80,7 @@
 </details>
 
 <details>
-<summary><b>🤖 Aalborg University — Student sistant (2024–2026)</b></summary>
+<summary><b>🤖 Aalborg University — Student Assistant (2024–2026)</b></summary>
 <br>
 
 - Oversaw a **robotic screwing cell** developed as a joint venture with Velux
